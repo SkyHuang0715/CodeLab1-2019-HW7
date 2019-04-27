@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07358dc1-b7ff-43f3-8c0a-80bf50bd9e7c" name="Default Changelist" comment="">
+    <list default="true" id="07358dc1-b7ff-43f3-8c0a-80bf50bd9e7c" name="Default Changelist" comment="Score and UI">
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.CodeLab1-2019-HW7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.CodeLab1-2019-HW7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CodeLab1-2019-HW7/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodeLab1-2019-HW7/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CodeLab1-2019-HW7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodeLab1-2019-HW7/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/CrossProductDemo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/CrossProductDemo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/DestroyDemo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/DestroyDemo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/GameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Shooter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Shooter.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,21 +19,72 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Script/Shooter.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="119">
+              <caret line="95" column="54" selection-start-line="95" selection-start-column="54" selection-end-line="95" selection-end-column="54" />
               <folding>
-                <marker date="1556350443193" expanded="false" signature="6:78" ph="..." />
-                <marker date="1556350443193" expanded="true" signature="116:2169" ph="{...}" />
-                <marker date="1556350443193" expanded="true" signature="562:639" ph="{...}" />
-                <marker date="1556350443193" expanded="true" signature="669:2166" ph="{...}" />
-                <marker date="1556350443193" expanded="true" signature="686:771" ph="/* 游戏是非暂停状态时才可以进行射击，并且枪随着鼠标旋转 ... */" />
-                <marker date="1556350443193" expanded="true" signature="872:1676" ph="{...}" />
-                <marker date="1556350443193" expanded="true" signature="971:1660" ph="{...}" />
-                <marker date="1556350443193" expanded="true" signature="1352:1547" ph="/* 播放手枪开火的动画 ... */" />
-                <marker date="1556350443193" expanded="true" signature="1574:1640" ph="/* 增加射击数 ... */" />
+                <marker date="1556354740337" expanded="false" signature="6:100" ph="..." />
+                <marker date="1556354740337" expanded="true" signature="138:2393" ph="{...}" />
+                <marker date="1556354740337" expanded="true" signature="644:721" ph="{...}" />
+                <marker date="1556354740337" expanded="true" signature="751:2390" ph="{...}" />
+                <marker date="1556354740337" expanded="true" signature="768:853" ph="/* 游戏是非暂停状态时才可以进行射击，并且枪随着鼠标旋转 ... */" />
+                <marker date="1556354740337" expanded="true" signature="954:1900" ph="{...}" />
+                <marker date="1556354740337" expanded="true" signature="1053:1884" ph="{...}" />
+                <marker date="1556354740337" expanded="true" signature="1484:1679" ph="/* 播放手枪开火的动画 ... */" />
+                <marker date="1556354740337" expanded="true" signature="1706:1809" ph="/* 增加射击数 ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/CrossProductDemo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="26" column="64" lean-forward="true" selection-start-line="26" selection-start-column="64" selection-end-line="26" selection-end-column="64" />
+              <folding>
+                <marker date="1556356616339" expanded="false" signature="6:78" ph="..." />
+                <marker date="1556356616339" expanded="true" signature="125:871" ph="{...}" />
+                <marker date="1556356616339" expanded="true" signature="230:251" ph="{...}" />
+                <marker date="1556356616339" expanded="true" signature="309:869" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/DestroyDemo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+              <folding>
+                <marker date="1556354741851" expanded="false" signature="6:78" ph="..." />
+                <marker date="1556354741851" expanded="true" signature="122:590" ph="{...}" />
+                <marker date="1556354741851" expanded="true" signature="130:205" ph="/* 每个砖块的自动销毁脚本 ... */" />
+                <marker date="1556354741851" expanded="true" signature="224:278" ph="{...}" />
+                <marker date="1556354741851" expanded="true" signature="339:349" ph="{...}" />
+                <marker date="1556354741851" expanded="true" signature="406:588" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/GameManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
+              <folding>
+                <marker date="1556356756153" expanded="false" signature="6:131" ph="..." />
+                <marker date="1556356756153" expanded="true" signature="173:899" ph="{...}" />
+                <marker date="1556356756153" expanded="true" signature="272:459" ph="{...}" />
+                <marker date="1556356756153" expanded="true" signature="291:337" ph="{...}" />
+                <marker date="1556356756153" expanded="true" signature="358:453" ph="{...}" />
+                <marker date="1556356756153" expanded="true" signature="582:897" ph="{...}" />
+                <marker date="1556356756153" expanded="true" signature="619:725" ph="{...}" />
+                <marker date="1556356756153" expanded="true" signature="738:791" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -38,18 +96,26 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Script/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/CrossProductDemo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/DestroyDemo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Shooter.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/DestoryDemo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/DestroyDemo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Shooter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CrossProductDemo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/GameManager.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="669" />
-    <option name="y" value="203" />
+    <option name="x" value="341" />
+    <option name="y" value="117" />
     <option name="width" value="1440" />
     <option name="height" value="772" />
   </component>
@@ -59,10 +125,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -81,7 +148,6 @@
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -130,12 +196,21 @@
       <option name="presentableId" value="Default" />
       <updated>1556347486420</updated>
       <workItem from="1556347488771" duration="770000" />
-      <workItem from="1556350965317" duration="350000" />
+      <workItem from="1556350965317" duration="3532000" />
+      <workItem from="1556355123938" duration="1655000" />
     </task>
+    <task id="LOCAL-00001" summary="Score and UI">
+      <created>1556352824508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556352824508</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1120000" />
+    <option name="totallyTimeSpent" value="5957000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -147,10 +222,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="669" y="203" width="1440" height="772" extended-state="0" />
+    <frame x="341" y="117" width="1440" height="772" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536232" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25724638" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -185,6 +260,10 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Score and UI" />
+    <option name="LAST_COMMIT_MESSAGE" value="Score and UI" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -196,27 +275,66 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/DestoryDemo.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/DestoryDemo.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Shooter.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="57" lean-forward="true" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+        <state relative-caret-position="119">
+          <caret line="95" column="54" selection-start-line="95" selection-start-column="54" selection-end-line="95" selection-end-column="54" />
+          <folding>
+            <marker date="1556354740337" expanded="false" signature="6:100" ph="..." />
+            <marker date="1556354740337" expanded="true" signature="138:2393" ph="{...}" />
+            <marker date="1556354740337" expanded="true" signature="644:721" ph="{...}" />
+            <marker date="1556354740337" expanded="true" signature="751:2390" ph="{...}" />
+            <marker date="1556354740337" expanded="true" signature="768:853" ph="/* 游戏是非暂停状态时才可以进行射击，并且枪随着鼠标旋转 ... */" />
+            <marker date="1556354740337" expanded="true" signature="954:1900" ph="{...}" />
+            <marker date="1556354740337" expanded="true" signature="1053:1884" ph="{...}" />
+            <marker date="1556354740337" expanded="true" signature="1484:1679" ph="/* 播放手枪开火的动画 ... */" />
+            <marker date="1556354740337" expanded="true" signature="1706:1809" ph="/* 增加射击数 ... */" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/Shooter.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CrossProductDemo.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="360">
+          <caret line="26" column="64" lean-forward="true" selection-start-line="26" selection-start-column="64" selection-end-line="26" selection-end-column="64" />
           <folding>
-            <marker date="1556350443193" expanded="false" signature="6:78" ph="..." />
-            <marker date="1556350443193" expanded="true" signature="116:2169" ph="{...}" />
-            <marker date="1556350443193" expanded="true" signature="562:639" ph="{...}" />
-            <marker date="1556350443193" expanded="true" signature="669:2166" ph="{...}" />
-            <marker date="1556350443193" expanded="true" signature="686:771" ph="/* 游戏是非暂停状态时才可以进行射击，并且枪随着鼠标旋转 ... */" />
-            <marker date="1556350443193" expanded="true" signature="872:1676" ph="{...}" />
-            <marker date="1556350443193" expanded="true" signature="971:1660" ph="{...}" />
-            <marker date="1556350443193" expanded="true" signature="1352:1547" ph="/* 播放手枪开火的动画 ... */" />
-            <marker date="1556350443193" expanded="true" signature="1574:1640" ph="/* 增加射击数 ... */" />
+            <marker date="1556356616339" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556356616339" expanded="true" signature="125:871" ph="{...}" />
+            <marker date="1556356616339" expanded="true" signature="230:251" ph="{...}" />
+            <marker date="1556356616339" expanded="true" signature="309:869" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/DestroyDemo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+          <folding>
+            <marker date="1556354741851" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556354741851" expanded="true" signature="122:590" ph="{...}" />
+            <marker date="1556354741851" expanded="true" signature="130:205" ph="/* 每个砖块的自动销毁脚本 ... */" />
+            <marker date="1556354741851" expanded="true" signature="224:278" ph="{...}" />
+            <marker date="1556354741851" expanded="true" signature="339:349" ph="{...}" />
+            <marker date="1556354741851" expanded="true" signature="406:588" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/GameManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <marker date="1556356756153" expanded="false" signature="6:131" ph="..." />
+            <marker date="1556356756153" expanded="true" signature="173:899" ph="{...}" />
+            <marker date="1556356756153" expanded="true" signature="272:459" ph="{...}" />
+            <marker date="1556356756153" expanded="true" signature="291:337" ph="{...}" />
+            <marker date="1556356756153" expanded="true" signature="358:453" ph="{...}" />
+            <marker date="1556356756153" expanded="true" signature="582:897" ph="{...}" />
+            <marker date="1556356756153" expanded="true" signature="619:725" ph="{...}" />
+            <marker date="1556356756153" expanded="true" signature="738:791" ph="{...}" />
           </folding>
         </state>
       </provider>

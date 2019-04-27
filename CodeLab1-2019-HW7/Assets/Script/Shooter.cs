@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Shooter : MonoBehaviour
 {
@@ -29,6 +30,10 @@ public class Shooter : MonoBehaviour
     public GameObject bulletGO;
  
     public Transform firePosition;
+    
+    public Text ShootText;
+
+    private int shoot = 0;
  
     private void Awake()
  
@@ -69,6 +74,8 @@ public class Shooter : MonoBehaviour
                     //通过刚体组件给子弹添加一个正前方向上的力，以达到让子弹向前运动的效果
  
                     bulletCurrent.GetComponent<Rigidbody>().AddForce(transform.forward * 3000);
+                    
+                    shoot++;
  
                     //播放手枪开火的动画
  
@@ -85,6 +92,8 @@ public class Shooter : MonoBehaviour
                     //增加射击数
  
                     //UIManager._instance.AddShootNum();
+                    //shoot = value;
+                    ShootText.text = "Shoot " + shoot;
  
                 }
  

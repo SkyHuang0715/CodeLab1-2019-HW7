@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8b3b3cb-4e2d-42ce-8fdf-b7e5add12764" name="Default Changelist" comment="">
+    <list default="true" id="f8b3b3cb-4e2d-42ce-8fdf-b7e5add12764" name="Default Changelist" comment="add materials">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CodeLab1-2019-HW7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodeLab1-2019-HW7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeLab1-2019-HW7/.idea/.idea.CodeLab1-2019-HW7/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeLab1-2019-HW7/.idea/.idea.CodeLab1-2019-HW7/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CodeLab1-2019-HW7/.idea/.idea.CodeLab1-2019-HW7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeLab1-2019-HW7/.idea/.idea.CodeLab1-2019-HW7/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeLab1-2019-HW7/Assets/New Material 1.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeLab1-2019-HW7/Assets/New Material 1.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeLab1-2019-HW7/Assets/New Material.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeLab1-2019-HW7/Assets/New Material.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeLab1-2019-HW7/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/CodeLab1-2019-HW7/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeLab1-2019-HW7/Assets/Script/Shooter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CodeLab1-2019-HW7/Assets/Script/Shooter.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,11 +14,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodeLab1-2019-HW7/Assets/Script/Shooter.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
-              <caret line="113" selection-start-line="113" selection-end-line="113" />
+            <state relative-caret-position="164">
+              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#78#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodeLab1-2019-HW7/Assets/Script/CrossProductDemo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="72" selection-start-line="24" selection-start-column="72" selection-end-line="24" selection-end-column="72" />
               <folding>
                 <element signature="e#0#78#0" expanded="true" />
               </folding>
@@ -43,12 +51,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/CodeLab1-2019-HW7/Assets/Script/Shooter.cs" />
+        <option value="$PROJECT_DIR$/CodeLab1-2019-HW7/Assets/Script/CrossProductDemo.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="61" />
-    <option name="y" value="136" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="275" />
+    <option name="y" value="57" />
     <option name="width" value="1440" />
     <option name="height" value="772" />
   </component>
@@ -103,7 +112,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556346930991</updated>
-      <workItem from="1556346933102" duration="4872000" />
+      <workItem from="1556346933102" duration="6325000" />
     </task>
     <task id="LOCAL-00001" summary="shooter">
       <created>1556350737486</created>
@@ -130,7 +139,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4872000" />
+    <option name="totallyTimeSpent" value="6325000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -142,7 +151,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="61" y="136" width="1440" height="772" extended-state="1" />
+    <frame x="173" y="177" width="1440" height="772" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -207,8 +216,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CodeLab1-2019-HW7/Assets/Script/Shooter.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="113" selection-start-line="113" selection-end-line="113" />
+        <state relative-caret-position="164">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeLab1-2019-HW7/Assets/Script/CrossProductDemo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="72" selection-start-line="24" selection-start-column="72" selection-end-line="24" selection-end-column="72" />
           <folding>
             <element signature="e#0#78#0" expanded="true" />
           </folding>
