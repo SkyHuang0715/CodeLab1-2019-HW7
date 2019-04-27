@@ -94,7 +94,7 @@ public class Shooter : MonoBehaviour
  
             float xPosPrecent = Input.mousePosition.x / Screen.width;
  
-            float yPosPrecent = Input.mousePosition.y / Screen.height/2;
+            float yPosPrecent = Input.mousePosition.y / Screen.height/4;
  
  
  

@@ -21,6 +21,8 @@ public class DestroyDemo : MonoBehaviour {
     private void OnCollisionEnter(Collision collision)
     {
         //asbro.Play();
+        Debug.Log("You hit the cube!");
+                GameManager.instance.Score++;
         Destroy(this.gameObject,0.05f);   //碰撞后 0.05s销毁自身
     }
 }
