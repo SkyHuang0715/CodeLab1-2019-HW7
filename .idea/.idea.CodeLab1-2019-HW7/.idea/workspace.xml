@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8b3b3cb-4e2d-42ce-8fdf-b7e5add12764" name="Default Changelist" comment="add materials">
+    <list default="true" id="f8b3b3cb-4e2d-42ce-8fdf-b7e5add12764" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CodeLab1-2019-HW7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodeLab1-2019-HW7/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeLab1-2019-HW7/.idea/.idea.CodeLab1-2019-HW7/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeLab1-2019-HW7/.idea/.idea.CodeLab1-2019-HW7/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeLab1-2019-HW7/.idea/.idea.CodeLab1-2019-HW7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeLab1-2019-HW7/.idea/.idea.CodeLab1-2019-HW7/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -112,7 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556346930991</updated>
-      <workItem from="1556346933102" duration="6325000" />
+      <workItem from="1556346933102" duration="6507000" />
     </task>
     <task id="LOCAL-00001" summary="shooter">
       <created>1556350737486</created>
@@ -135,11 +133,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556351503694</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Shoot number and reflection">
+      <created>1556356850912</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1556356850912</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6325000" />
+    <option name="totallyTimeSpent" value="6507000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -151,7 +156,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="173" y="177" width="1440" height="772" extended-state="1" />
+    <frame x="275" y="57" width="1440" height="772" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -192,7 +197,8 @@
     <MESSAGE value="shooter" />
     <MESSAGE value="renew script" />
     <MESSAGE value="add materials" />
-    <option name="LAST_COMMIT_MESSAGE" value="add materials" />
+    <MESSAGE value="Shoot number and reflection" />
+    <option name="LAST_COMMIT_MESSAGE" value="Shoot number and reflection" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
